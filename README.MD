@@ -1,6 +1,6 @@
 # Simulation of Water Waves using Raylib
 
-    ![Water Waves](https://github.com/MercurialDemoMan/RaylibWaterWaves/blob/master/images/waves.png?raw=true)
+![Water Waves](https://github.com/MercurialDemoMan/RaylibWaterWaves/blob/master/images/waves.png?raw=true)
 
 ## What is this
 
